@@ -10,7 +10,7 @@ Run:
 npx serve
 ```
 
-Open up the link and you're ready to start.
+Open up the link and you're ready to start.X
 
 ## Credits
 
