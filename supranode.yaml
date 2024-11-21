@@ -1,6 +1,6 @@
 build:
   steps: 
-    - run: sleep 180
+    - run: sleep 10
     - run: mkdir _dist 
     - run: mv index.html _dist/index.html
   artifacts:
