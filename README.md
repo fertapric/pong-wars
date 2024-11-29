@@ -15,3 +15,5 @@ Open up the link and you're ready to start.X
 ## Credits
 
 A fork of [Koen van Gilst's Pong Wards](https://github.com/vnglst/pong-wars).
+
+Let's go
