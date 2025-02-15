@@ -16,4 +16,4 @@ Open up the link and you're ready to start.X
 
 A fork of [Koen van Gilst's Pong Wards](https://github.com/vnglst/pong-wars).
 
-Let's go
+Let's go 1
